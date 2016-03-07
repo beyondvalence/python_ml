@@ -1,7 +1,7 @@
-## Python ML Chapter 02
-## 20160302WED
-## Training machine learning algorithms 
-## for classification
+# Python ML Chapter 02
+# 20160302WED
+# Training machine learning algorithms
+# for classification
 
 import numpy as np
 
